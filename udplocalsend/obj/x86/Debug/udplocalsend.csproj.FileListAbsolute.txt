@@ -1,0 +1,9 @@
+D:\YandexDisk\4 курс\Сетевые технологии\Лабораторная работа № 2\udplocalsend\bin\Debug\udplocalsend.exe
+D:\YandexDisk\4 курс\Сетевые технологии\Лабораторная работа № 2\udplocalsend\bin\Debug\udplocalsend.pdb
+D:\YandexDisk\4 курс\Сетевые технологии\Лабораторная работа № 2\udplocalsend\obj\x86\Debug\udplocalsend.csprojResolveAssemblyReference.cache
+D:\YandexDisk\4 курс\Сетевые технологии\Лабораторная работа № 2\udplocalsend\obj\x86\Debug\udplocalsend.Form1.resources
+D:\YandexDisk\4 курс\Сетевые технологии\Лабораторная работа № 2\udplocalsend\obj\x86\Debug\udplocalsend.Properties.Resources.resources
+D:\YandexDisk\4 курс\Сетевые технологии\Лабораторная работа № 2\udplocalsend\obj\x86\Debug\udplocalsend.csproj.GenerateResource.cache
+D:\YandexDisk\4 курс\Сетевые технологии\Лабораторная работа № 2\udplocalsend\obj\x86\Debug\udplocalsend.csproj.CoreCompileInputs.cache
+D:\YandexDisk\4 курс\Сетевые технологии\Лабораторная работа № 2\udplocalsend\obj\x86\Debug\udplocalsend.exe
+D:\YandexDisk\4 курс\Сетевые технологии\Лабораторная работа № 2\udplocalsend\obj\x86\Debug\udplocalsend.pdb

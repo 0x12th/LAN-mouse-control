@@ -1,0 +1,9 @@
+D:\YandexDisk\4 курс\Сетевые технологии\Лабораторная работа № 2\udplocalreceive\bin\Debug\udplocalreceive.exe
+D:\YandexDisk\4 курс\Сетевые технологии\Лабораторная работа № 2\udplocalreceive\bin\Debug\udplocalreceive.pdb
+D:\YandexDisk\4 курс\Сетевые технологии\Лабораторная работа № 2\udplocalreceive\obj\x86\Debug\udplocalreceive.csprojResolveAssemblyReference.cache
+D:\YandexDisk\4 курс\Сетевые технологии\Лабораторная работа № 2\udplocalreceive\obj\x86\Debug\udplocalreceive.Properties.Resources.resources
+D:\YandexDisk\4 курс\Сетевые технологии\Лабораторная работа № 2\udplocalreceive\obj\x86\Debug\udplocalreceive.csproj.GenerateResource.cache
+D:\YandexDisk\4 курс\Сетевые технологии\Лабораторная работа № 2\udplocalreceive\obj\x86\Debug\udplocalreceive.csproj.CoreCompileInputs.cache
+D:\YandexDisk\4 курс\Сетевые технологии\Лабораторная работа № 2\udplocalreceive\obj\x86\Debug\udplocalreceive.exe
+D:\YandexDisk\4 курс\Сетевые технологии\Лабораторная работа № 2\udplocalreceive\obj\x86\Debug\udplocalreceive.pdb
+D:\YandexDisk\4 курс\Сетевые технологии\Лабораторная работа № 2\udplocalreceive\obj\x86\Debug\udplocalreceive.Form1.resources
